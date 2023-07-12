@@ -1,4 +1,4 @@
-# RAN
 rm -rf RAN
 git clone 
-cd RAN
+cr RAN
+python Run.py
